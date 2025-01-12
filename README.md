@@ -1,16 +1,20 @@
 # Hi 👋, I’m Rohith D S 
-👨‍💻 About Me
-💡 Developer | AI Enthusiast | Data Science Explorer
-Hi! I’m a passionate developer from India, blending creativity and technology to craft innovative solutions.
+<div style="text-align: left; font-family: Arial, sans-serif; line-height: 1.8; max-width: 600px; margin: auto;">
+    <h1>👨‍💻 About Me</h1>
+    <p style="font-size: 18px; font-weight: bold; margin: 10px 0;">💡 Developer | AI Enthusiast | Data Science Explorer</p>
+    <p>Hi! I’m a passionate developer from India, blending creativity and technology to craft innovative solutions.</p>
 
-🌐 Web Development: Building responsive and dynamic websites.
-🤖 AI & ML: Creating smart systems for real-world challenges.
-📊 Data Science: Transforming data into meaningful insights.
-🛠️ Tech Enthusiast: Always exploring new tools and frameworks.
-🌱 Currently Learning:
+    <p>🌐 <strong>Web Development</strong>: Building responsive and dynamic websites.</p>
+    <p>🤖 <strong>AI & ML</strong>: Creating smart systems for real-world challenges.</p>
+    <p>📊 <strong>Data Science</strong>: Transforming data into meaningful insights.</p>
+    <p>🛠️ <strong>Tech Enthusiast</strong>: Always exploring new tools and frameworks.</p>
 
-🤖 Advanced AI frameworks (TensorFlow, PyTorch)
-📈 Data visualization & storytelling
+    <h3 style="margin-top: 30px;">🌱 Currently Learning:</h3>
+    <p>🤖 Advanced AI frameworks (TensorFlow, PyTorch)</p>
+    <p>📈 Data visualization & storytelling</p>
+    <p>🤝 Open-source collaboration</p>
+</div>
+
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohith-D-S)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsrohith/)
