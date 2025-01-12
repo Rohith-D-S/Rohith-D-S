@@ -1,5 +1,4 @@
-# Hi 👋, I’m Rohith  
-___  
+# Hi 👋, I’m Rohith D S 
 👨‍💻 About Me
 💡 Developer | AI Enthusiast | Data Science Explorer
 Hi! I’m a passionate developer from India, blending creativity and technology to craft innovative solutions.
