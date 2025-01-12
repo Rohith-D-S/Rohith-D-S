@@ -1,3 +1,17 @@
+# Hi 👋, I’m Rohith  
+___  
+👨‍💻 About Me
+💡 Developer | AI Enthusiast | Data Science Explorer
+Hi! I’m a passionate developer from India, blending creativity and technology to craft innovative solutions.
+
+🌐 Web Development: Building responsive and dynamic websites.
+🤖 AI & ML: Creating smart systems for real-world challenges.
+📊 Data Science: Transforming data into meaningful insights.
+🛠️ Tech Enthusiast: Always exploring new tools and frameworks.
+🌱 Currently Learning:
+
+🤖 Advanced AI frameworks (TensorFlow, PyTorch)
+📈 Data visualization & storytelling
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohith-D-S)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsrohith/)
